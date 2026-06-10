@@ -25,22 +25,22 @@
 
 | Algorithme | Type | Statut | Description |
 |------------|------|--------|-------------|
-| Code César | Substitution | ✅ | Décalage alphabétique simple |
-| Vigenère | Poly-alphabétique | ✅ | Chiffrement par clé répétée |
-| Vernam (OTP) | XOR | ✅ | Masque jetable, sécurité parfaite |
-| RC4 | Chiffrement par flot | ✅ | Stream cipher à usage pédagogique |
-| DES | Chiffrement par bloc (64 bits) | ✅ | Réseau de Feistel, 16 rondes |
-| DES-CBC | Mode CBC | ✅ | Cipher Block Chaining |
-| DES-CFB | Mode CFB | ✅ | Cipher Feedback |
-| AES-128 | Chiffrement par bloc (128 bits) | ✅ | Standard NIST, 10 rondes |
+| Code César | Substitution | Ok | Décalage alphabétique simple |
+| Vigenère | Poly-alphabétique | Ok | Chiffrement par clé répétée |
+| Vernam (OTP) | XOR | Ok | Masque jetable, sécurité parfaite |
+| RC4 | Chiffrement par flot | Ok | Stream cipher à usage pédagogique |
+| DES | Chiffrement par bloc (64 bits) | Ok | Réseau de Feistel, 16 rondes |
+| DES-CBC | Mode CBC | Ok | Cipher Block Chaining |
+| DES-CFB | Mode CFB | Ok | Cipher Feedback |
+| AES-128 | Chiffrement par bloc (128 bits) | Ok | Standard NIST, 10 rondes |
 
 ### Cryptographie asymétrique (3 algorithmes)
 
 | Algorithme | Problème mathématique | Statut | Description |
 |------------|----------------------|--------|-------------|
-| RSA | Factorisation | ✅ | Rivest-Shamir-Adleman |
-| ElGamal | Logarithme discret | ✅ | Chiffrement probabiliste |
-| EC-ElGamal | Logarithme discret elliptique | ✅ | Version sur courbe secp256k1 |
+| RSA | Factorisation | Ok | Rivest-Shamir-Adleman |
+| ElGamal | Logarithme discret | Ok | Chiffrement probabiliste |
+| EC-ElGamal | Logarithme discret elliptique | Ok | Version sur courbe secp256k1 |
 
 ### Fonctionnalités supplémentaires
 
