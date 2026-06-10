@@ -77,7 +77,7 @@
 
 ### 1. Cloner le dépôt
 
-git clone https://github.com/votre-utilisateur/CryptoApp.git
+git clone https://github.com/mohamedkafando185-blip/CryptoApp.git \
 cd CryptoApp
 
 ### 2. Installer les dépendances
